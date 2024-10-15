@@ -1,4 +1,4 @@
-# Counter-App (HTML/SASS/JS/REACT)
+# Counter-App (HTML / SASS / JS / REACT)
 
 ## Overview 🌟
 A simple and concise application with a pleasant design. The user can add and reduce the counter.
