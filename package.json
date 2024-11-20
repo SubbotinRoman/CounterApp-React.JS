@@ -1,7 +1,7 @@
 {
   "name": "counter-app",
   "private": true,
-  "homepage": "https://subbotinroman.github.io/counter-app/",
+  "homepage": "https://subbotinroman.github.io/CounterApp-React.JS/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
