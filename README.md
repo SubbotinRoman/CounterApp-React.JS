@@ -38,20 +38,20 @@ git clone https://github.com/SubbotinRoman/CounterApp-React.JS.git
 cd CounterApp-React.JS
 ```
 
-3. Установить зависимости через npm
+3. Установить зависимости через npm:
 ```bash
 npm install
 ```
-или через yarn
+или через yarn:
 ```bash
 yarn
 ```
 
-4. Запустите проект через npm
+4. Запустите проект через npm:
 ```bash
 npm run dev
 ```
-или через yarn
+или через yarn:
 ```bash
 yarn dev
 ```
