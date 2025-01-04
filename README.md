@@ -1,14 +1,15 @@
 # Counter-App (HTML / SASS / JS / REACT)
 
-## Overview 🌟
-A simple and concise application with a pleasant design. The user can add and reduce the counter.
+## Обзор 🌟
+Простое приложение-счетчик с современным дизайном, позволяющее увеличивать и уменьшать значение счетчика с помощью интуитивно понятных кнопок.
 
-### [Check the Live Demo](https://subbotinroman.github.io/CounterApp-React.JS/) 👈
+### [Посмотреть демо 👈](https://subbotinroman.github.io/CounterApp-React.JS/) 
 
 <img alt="ToDo-List preview" src="public/preview.png">
 
-***
-## Stack ⚙️
+---
+
+## Стек технологий ⚙️
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -16,26 +17,41 @@ A simple and concise application with a pleasant design. The user can add and re
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-***
-## Features 🚀
+---
 
-- ✅ Increasing the counter by pressing the “plus” button
-- 💥 Decrease the counter by pressing the “minus” button
-***
-## How to run locally
+## Возможности 🚀
 
-* install dependencies
-```js
+- Увеличение счетчика при нажатии кнопки “плюс” ➕
+- Уменьшение счетчика при нажатии кнопки “минус” ➖
+
+---
+
+## Как запустить локально 💻
+
+1. Клонируйте репозиторий:
+```bash
+git clone https://github.com/SubbotinRoman/CounterApp-React.JS.git
+```
+
+2. Перейдите в папку с проектом:
+```bash
+cd CounterApp-React.JS
+```
+
+3. Установить зависимости через npm
+```bash
 npm install
-// or
+```
+или через yarn
+```bash
 yarn
 ```
-* start local server via Vite
-```js
-npm start dev
-// or
+
+4. Запустите проект через npm
+```bash
+npm run dev
+```
+или через yarn
+```bash
 yarn dev
 ```
-
-
-
